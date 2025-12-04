@@ -102,4 +102,5 @@ The application uses H2 in-memory database which:
 
 ## License
 
-This project is open source and available under the MIT License.
+This project is open source and available under the Gu License.
+
